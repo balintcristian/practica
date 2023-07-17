@@ -1,0 +1,42 @@
+[
+  {
+    "title": "PC",
+    "link": "/pc",
+    "description": "Programarea calculatoarelor și limbaje de programare I"
+  },
+  {
+    "title": "PC2",
+    "link": "/pc2",
+    "description": "Programarea calculatoarelor și limbaje de programare II"
+  },
+  {
+    "title": "SPG",
+    "link": "/spg",
+    "description": "sisteme de prelucrare grafica"
+  },
+  {
+    "title": "SD",
+    "link": "/sd",
+    "description": "structuri de date"
+  },
+  {
+    "title": "EG",
+    "link": "/eg",
+    "description": "Elemente de grafică pe calculator"
+  },
+  {
+    "title": "TI",
+    "link": "/ti",
+    "description": "Tehnologii Internet - programare web"
+  },
+  {
+    "title": "SDI",
+    "link": "/sdi",
+    "description": "Sisteme distribuite"
+  },
+  {
+    "title": "APM",
+    "link": "/apm",
+    "description": "Aplicații mobile"
+  }
+]

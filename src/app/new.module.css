@@ -1,0 +1,13 @@
+
+
+  .headerDiv{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding-bottom: 1rem;
+  }
+  
+  .img{
+    padding-left: 50px;
+  }

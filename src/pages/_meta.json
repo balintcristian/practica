@@ -1,0 +1,58 @@
+{
+  "pc": {
+    "title": "Programarea calculatoarelor",
+    "type": "page",
+    "href": "/pc",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "pc2": {
+    "title": "Programarea calculatoarelor",
+    "type": "page",
+    "href": "/pc2",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "sd": {
+    "title": "Structuri de date",
+    "type": "page",
+    "href": "/sd",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "sdi": {
+    "title": "Sisteme Distribuite",
+    "type": "page",
+    "href": "/sdi",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "eg": {
+    "title": "Elemente de Grafică",
+    "type": "page",
+    "href": "/eg",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "spg": {
+    "title": "Sisteme de Prelucrare Grafică",
+    "type": "page",
+    "href": "/spg",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "ti": {
+    "title": "Tehnologii Internet - Progamare Web",
+    "type": "page",
+    "href": "/ti",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "apm": {
+    "title": "Aplicatii Mobile",
+    "type": "page",
+    "href": "/apm",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  }
+}
