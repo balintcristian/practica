@@ -1,36 +1,22 @@
 {
-  "pc": {
-    "title": "Programarea calculatoarelor",
+  "sda": {
+    "title": "Structuri de date si Algoritmi",
     "type": "page",
-    "href": "/pc",
+    "href": "/sda",
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   },
-  "pc2": {
-    "title": "Programarea calculatoarelor",
+  "egc": {
+    "title": "Elemente de Grafică pe Calculator",
     "type": "page",
-    "href": "/pc2",
+    "href": "/egc",
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   },
-  "sd": {
-    "title": "Structuri de date",
+  "prw": {
+    "title": "Progamare Web",
     "type": "page",
-    "href": "/sd",
-    "display": "hidden",
-    "theme": { "search": true, "darkmode": true }
-  },
-  "sdi": {
-    "title": "Sisteme Distribuite",
-    "type": "page",
-    "href": "/sdi",
-    "display": "hidden",
-    "theme": { "search": true, "darkmode": true }
-  },
-  "eg": {
-    "title": "Elemente de Grafică",
-    "type": "page",
-    "href": "/eg",
+    "href": "/prw",
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   },
@@ -41,17 +27,31 @@
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   },
-  "ti": {
-    "title": "Tehnologii Internet - Progamare Web",
+  "apm": {
+    "title": "Calcul Mobil",
     "type": "page",
-    "href": "/ti",
+    "href": "/apm",
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   },
-  "apm": {
-    "title": "Aplicatii Mobile",
+  "sdi": {
+    "title": "Sisteme Distribuite",
     "type": "page",
-    "href": "/apm",
+    "href": "/sdi",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "paw": {
+    "title": "Proiectarea Aplicatiilor Web",
+    "type": "page",
+    "href": "/paw",
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
+  },
+  "ise": {
+    "title": "Inginerie Software(EA)",
+    "type": "page",
+    "href": "/ise",
     "display": "hidden",
     "theme": { "search": true, "darkmode": true }
   }

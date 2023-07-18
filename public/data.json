@@ -1,15 +1,5 @@
 [
   {
-    "title": "PC",
-    "link": "/pc",
-    "description": "Programarea calculatoarelor și limbaje de programare I"
-  },
-  {
-    "title": "PC2",
-    "link": "/pc2",
-    "description": "Programarea calculatoarelor și limbaje de programare II"
-  },
-  {
     "title": "SPG",
     "link": "/spg",
     "description": "sisteme de prelucrare grafica"
