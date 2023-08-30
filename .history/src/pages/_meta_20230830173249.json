@@ -3,7 +3,8 @@
     "title": "Structuri de date si Algoritmi",
     "type": "page",
     "href": "/sda/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "egc": {
     "title": "Elemente de Grafică pe Calculator",
@@ -14,36 +15,42 @@
     "title": "Progamare Web",
     "type": "page",
     "href": "/prw/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "spg": {
     "title": "Sisteme de Prelucrare Grafică",
     "type": "page",
     "href": "/spg/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "apm": {
     "title": "Calcul Mobil",
     "type": "page",
     "href": "/apm/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "sdi": {
     "title": "Sisteme Distribuite",
     "type": "page",
     "href": "/sdi/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "paw": {
     "title": "Proiectarea Aplicatiilor Web",
     "type": "page",
     "href": "/paw/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   },
   "ise": {
     "title": "Inginerie Software(EA)",
     "type": "page",
     "href": "/ise/capitole",
-    "display": "hidden"
+    "display": "hidden",
+    "theme": { "search": true, "darkmode": true }
   }
 }

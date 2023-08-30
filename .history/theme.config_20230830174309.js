@@ -15,9 +15,9 @@ export default {
     }
   },logo: (
     <>
-          <img src="/inginerie-logo.png" height="100" width="100"></img>
+          <img src="./public/inginerie-log.png"></img>
       <span style={{ marginLeft: '.4em', fontWeight: 800 }}>
-        Documentatie
+        My Cool Project
       </span>
     </>
   ),
@@ -37,4 +37,8 @@ export default {
     footer:true,
     footerText: 'CUNBM 20222 © Balint',
     footerEditOnGitHubLink: true, // will link to the docs repo
+    logo: <>
+      <svg>...</svg>
+      <span>Documentatie</span>
+    </>,
   }      

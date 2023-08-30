@@ -15,7 +15,7 @@ export default {
     }
   },logo: (
     <>
-          <img src="/inginerie-logo.png" height="100" width="100"></img>
+          <img src="./src/app/favicon.ico"></img>
       <span style={{ marginLeft: '.4em', fontWeight: 800 }}>
         Documentatie
       </span>
